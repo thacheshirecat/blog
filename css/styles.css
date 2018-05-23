@@ -1,0 +1,18 @@
+.intro{
+  font-size: 40px;
+  color: green;
+}
+
+.news{
+  font-weight: bold;
+  color: blue;
+}
+
+.post1{
+  font-style: italic;
+}
+
+.important{
+  font-size: 75px;
+  color: red;
+}
